@@ -1,0 +1,7 @@
+git init(initialise an empty Git VCS repo )
+git status(to check a repo)
+git add .(to make all the files staged from untracked)
+git restore"file name"(to restore the deleted file)
+git remote -v(to check remote repo is added or not)
+git remote set-url origin(to make changes in the url)
+git push origin master(to push file from local to git)
